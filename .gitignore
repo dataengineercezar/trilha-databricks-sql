@@ -1,0 +1,18 @@
+.databricks/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+*.dbc
+*.zip
+*.log
+*.tmp
+
+# Databricks local state
+.bundle/
+databricks_cli.log
+
+# Local exports
+exports/
+dist/
