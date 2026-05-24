@@ -59,10 +59,10 @@ Pre-requisitos recomendados:
 | 09 | Jobs, alertas e operacao | rotina SQL operacionalizada |
 | 10 | Projeto final | produto de dados completo e publicavel |
 
-Sugestao comercial:
+Versao aberta:
 
-- Semanas 01 e 02: abertas no GitHub para gerar confianca e trafego.
-- Semanas 03 a 10: produto premium com labs completos, solucoes e projeto final.
+- Semanas 01 e 02: abertas no GitHub para estudo e avaliacao tecnica.
+- Semanas 03 a 10: disponiveis na versao premium com labs completos e projeto final.
 
 ---
 
@@ -92,8 +92,7 @@ TRILHA_DATABRICKS_SQL/
 |   |-- semana09_jobs_alertas/
 |   `-- semana10_projeto_final/
 |-- projeto_final/
-|-- templates/
-`-- monetizacao/
+`-- templates/
 ```
 
 ---
@@ -121,7 +120,7 @@ Guias operacionais:
 
 - Teste no Free Trial: [documentos/teste_free_trial_databricks.md](documentos/teste_free_trial_databricks.md)
 - SQL vs notebooks: [documentos/notebooks_vs_sql.md](documentos/notebooks_vs_sql.md)
-- Go-live do produto: [monetizacao/GO_LIVE_RUNBOOK.md](monetizacao/GO_LIVE_RUNBOOK.md)
+- Acesso premium: [ACESSO_PREMIUM.md](ACESSO_PREMIUM.md)
 
 ---
 

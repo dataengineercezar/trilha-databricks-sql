@@ -15,8 +15,7 @@ O premium inclui:
 
 | Publico | Plataforma | Link |
 | --- | --- | --- |
-| Brasil | Kiwify | [link Kiwify] |
-| Internacional | Gumroad | [link Gumroad] |
+| Brasil | Kiwify | https://pay.kiwify.com.br/rOVn02t |
 
 ## O que voce vai construir
 
