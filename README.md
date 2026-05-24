@@ -78,17 +78,9 @@ TRILHA_DATABRICKS_SQL/
 |   `-- notebooks/
 |-- exercicios/
 |   |-- semana01_sql_warehouse_setup/
-|   |-- semana02_delta_sql_modelagem/
-|   |-- semana03_windows_qualify/
-|   |-- semana04_gold_layer_metricas/
-|   |-- semana05_dashboards_aibi/
-|   |-- semana06_genie_metric_views/
-|   |-- semana07_performance_sql/
-|   |-- semana08_governanca_uc/
-|   |-- semana09_jobs_alertas/
-|   `-- semana10_projeto_final/
-|-- projeto_final/
-`-- templates/
+|   `-- semana02_delta_sql_modelagem/
+|-- scripts/
+`-- ACESSO_PREMIUM.md
 ```
 
 ---
