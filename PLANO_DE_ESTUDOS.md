@@ -104,16 +104,16 @@ Entregaveis:
 
 ## Validacao no Free Trial
 
-Antes de publicar uma versao, execute o runbook:
+Antes de publicar uma versao, valide os labs disponiveis com:
 
 ```text
-documentos/teste_free_trial_databricks.md
+powershell -ExecutionPolicy Bypass -File .\scripts\run_free_validation_databricks.ps1 -Profile cezar_databricks
 ```
 
-Registre evidencias em:
+Na versao premium, valide a trilha completa com:
 
 ```text
-documentos/test_log.md
+powershell -ExecutionPolicy Bypass -File .\scripts\run_full_validation_databricks.ps1 -Profile cezar_databricks
 ```
 
 ---

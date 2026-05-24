@@ -72,10 +72,6 @@ Versao aberta:
 TRILHA_DATABRICKS_SQL/
 |-- README.md
 |-- PLANO_DE_ESTUDOS.md
-|-- documentos/
-|   |-- guia_tecnico.md
-|   |-- sql_style_guide.md
-|   `-- checklist_data_product.md
 |-- datasets/
 |   |-- README.md
 |   |-- seed_ecommerce.sql
@@ -116,10 +112,10 @@ USE SCHEMA databricks_sql_track;
 Se o catalogo `workspace` nao existir no seu ambiente, troque por um catalogo
 ao qual voce tenha `USE CATALOG`, `USE SCHEMA` e `CREATE TABLE`.
 
-Guias operacionais:
+Scripts operacionais:
 
-- Teste no Free Trial: [documentos/teste_free_trial_databricks.md](documentos/teste_free_trial_databricks.md)
-- SQL vs notebooks: [documentos/notebooks_vs_sql.md](documentos/notebooks_vs_sql.md)
+- Validacao gratuita: `scripts/run_free_validation_databricks.ps1`
+- Executor SQL: `scripts/run_sql_file_databricks.ps1`
 - Acesso premium: [ACESSO_PREMIUM.md](ACESSO_PREMIUM.md)
 
 ---
