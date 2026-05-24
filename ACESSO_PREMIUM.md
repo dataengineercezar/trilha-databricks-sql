@@ -15,7 +15,7 @@ O premium inclui:
 
 | Publico | Plataforma | Link |
 | --- | --- | --- |
-| Brasil | Kiwify | https://pay.kiwify.com.br/rOVn02t |
+| Brasil | Kiwify | https://pay.kiwify.com.br/P6VmSu1 |
 
 ## O que voce vai construir
 
